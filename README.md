@@ -1,5 +1,4 @@
 # Carte des accidents de la route dans le Finistère
-Projet work-in-progress
 
 IMPORTANT. Cette carte est un projet en cours. Elle n'est pour l'instant pas exhaustive. Elle s'appuie sur les données opendata mentionnant l'emplacement de tous les accidents de la route dans le Finistère de 2006 à 2011. Pour l'instant, seuls 2000 accidents sont localisés (+ ou - précisément).
 
